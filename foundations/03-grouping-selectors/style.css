@@ -1,0 +1,15 @@
+.fancy,
+.needy {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
+
+.fancy {
+    background-color: black;
+    color: white;
+    font-weight: bold;
+}
+
+.needy {
+    background-color: yellow;
+}
